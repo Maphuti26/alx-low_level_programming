@@ -1,9 +1,6 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
  * print_rev - prints a string on reverse
- *
  * @s: string
  * return: 0
  */
